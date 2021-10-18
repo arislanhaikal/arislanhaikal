@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Haikal 👋
 
-<!--
-**arislanhaikal/arislanhaikal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a programmer, based in Yogyakarta - Indonesia. Since childhood, I really like the world of coding. Until now I have fallen in love with this world. Let's have a cup of coffee and talk about everything!
 
-Here are some ideas to get you started:
+📞 you can reach me at
+- [Twitter @arislanhaikal](https://twitter.com/arislanhaikal)
+- [Instagram @arislanhaikal](https://instagram.com/arislanhaikal)
+- [LinkedIn](https://www.linkedin.com/in/arislanhaikal/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arislanhaikal)](https://github.com/anuraghazra/github-readme-stats)
+![arislanhaikal github stats](https://github-readme-stats.vercel.app/api?username=arislanhaikal)
+
