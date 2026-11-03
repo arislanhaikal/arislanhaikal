@@ -7,7 +7,3 @@ I am a programmer, based in Yogyakarta - Indonesia. Since childhood, I really li
 - [Instagram @arislanhaikal](https://instagram.com/arislanhaikal)
 - [LinkedIn](https://www.linkedin.com/in/arislanhaikal/)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arislanhaikal)](https://github.com/anuraghazra/github-readme-stats)
-![arislanhaikal github stats](https://github-readme-stats.vercel.app/api?username=arislanhaikal)
-
